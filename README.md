@@ -1,5 +1,5 @@
 # ClawTwister
-MIDI Fighter Twister mapping to OpenClaw AI or automation systems.
+MIDI Fighter Twister Control Surface Mapping for OpenClaw AI or automation systems.
 
 MIDI-based parameter modulation and telemetry interface for AI and automation systems.
 
